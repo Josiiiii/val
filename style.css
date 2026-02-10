@@ -133,12 +133,14 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
-  margin-bottom: 20px;
+  gap: 12px;
+  width: 100%;
+  flex-wrap: nowrap;
 }
 
 .cats {
-  height: 110px;      /* same height for all */
-  width: auto;        /* keep aspect ratio */
-  max-width: 30vw;    /* 3 fit on mobile */
+  height: 100px;
+  width: auto;
+  max-width: 30%;
+  object-fit: contain;    /* 3 fit on mobile */
 }
