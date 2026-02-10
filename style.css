@@ -128,3 +128,17 @@ button {
   font-size: 28px;
   word-wrap: break-word;
 }
+
+.gif-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.cats {
+  height: 110px;      /* same height for all */
+  width: auto;        /* keep aspect ratio */
+  max-width: 30vw;    /* 3 fit on mobile */
+}
