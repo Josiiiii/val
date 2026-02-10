@@ -130,11 +130,13 @@ button {
   gap: 10px;
   width: 100%;
   flex-wrap: wrap;   /* KEY */
+  margin-top: 20px;
 }
 
 .cats {
-  height: clamp(120px, 18vw, 180px);
+  height: 160px;        /* increase this = bigger gifs */
   width: auto;
   max-width: 32%;
   object-fit: contain;
 }
+
