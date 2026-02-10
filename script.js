@@ -36,8 +36,11 @@ yesBtn.addEventListener("click", () => {
       text-align:center;
       padding:20px;">
       
-      <h1 style="color:#ff4d6d;font-size:36px;">YAYYYY 💖💖💖</h1>
-      <img src="https://media.tenor.com/zGm5acSjHCIAAAAi/cat-kiss.gif" style="width:60%;max-width:250px;">
+      <h1 style="color:#ff4d6d;font-size:36px;">YAYAYAYYAYAYA I LOVE YOU SO MUCH MY BABYY</h1>
+      <h2 style="color:#ff4d6d;font-size:36px;">hi sweeticakes u majke me very very happy and i cant wait to see you again BRRRRR
+       and give you all the hugs and kisses in the world and spoil you like the princess you are i love you so much 😘💕</h2>
+      <img src="cats-kittens.gif" style="width:60%;max-width:250px;">
+      <h3 style="color:#ff4d6d;font-size:36px;">FIRST VALENTINES TGG AWAWAW I MISS YOU SO FERASKING MUHC</h3>
       <p style="font-size:20px;color:#d63384;">Best Valentine ever 😘</p>
     </div>
   `;
