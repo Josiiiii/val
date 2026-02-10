@@ -43,7 +43,7 @@ yesBtn.addEventListener("click", () => {
         <div class="gif-row">
                      <img src="cats-kittens.gif" class="cats">
              <img src="roses-sparkle.gif" class="cats">
-              <img src="love-minions" class="cats">
+              <img src="love-minions.gif" class="cats">
          </div>
       <h3 style="color:#ff4d6d;font-size:36px;">FIRST VALENTINES TGG AWAWAW I MISS YOU SO FERASKING MUHC</h3>
       <p style="font-size:20px;color:#d63384;">best Valentine ever 😘</p>
